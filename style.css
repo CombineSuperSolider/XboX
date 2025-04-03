@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+
+}
+
+header {
+    background-color:green;
+}
+
+
+nav {
+    display:flex;
+    justify-content: space-around;
+    border-bottom:5px dotted rgb(255, 0, 0)e;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+    border-bottom:5px dotted rgb(255, 0, 0);
+}
+
+a {
+    color:green;
+    text-decoration:none;
+}
